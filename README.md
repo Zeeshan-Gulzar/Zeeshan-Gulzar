@@ -11,11 +11,11 @@
 
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=ZeeshanGulzar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api?username=Zeeshan-Gulzar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=ZeeshanGulzar&theme=dark&hide_border=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=Zeeshan-Gulzar&theme=dark&hide_border=false)
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanGulzar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-Gulzar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
